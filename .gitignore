@@ -4,7 +4,7 @@
 !.gitignore
 !.gitattributes
 !README.md
-!init.sh
+!init.bat
 !mmc-pack.json
 
 !minecraft/

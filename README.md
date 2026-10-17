@@ -4,16 +4,13 @@
 
 ## Установка
 
-Нужны [Prism Launcher](https://prismlauncher.org/) (или ElyPrism) и [git](https://git-scm.com/). На Windows команды выполняйте в Git Bash.
+Нужны [Prism Launcher](https://prismlauncher.org/) (или ElyPrism) и [git](https://git-scm.com/). Команды `git` выполняйте в Git Bash.
 
 1. Клонируйте репозиторий в папку инстансов лаунчера (её путь: «Папки → Экземпляры» в лаунчере):
    ```bash
    git clone <URL> "$APPDATA/PrismLauncher/instances/Test-git"
    ```
-2. Запустите скрипт инициализации, он создаст `instance.cfg`:
-   ```bash
-   "$APPDATA/PrismLauncher/instances/Test-git/init.sh"
-   ```
+2. Откройте папку инстанса и запустите `init.bat` двойным кликом, он создаст `instance.cfg`.
 3. Перезапустите лаунчер и запустите инстанс. Java, NeoForge и библиотеки лаунчер скачает сам.
 
 ## Обновление

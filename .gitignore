@@ -2,6 +2,9 @@
 /*
 !.gitignore
 !mmc-pack.json
+!.gitattributes
+!README.md
+!init.sh
 
 !minecraft/
 /minecraft/*

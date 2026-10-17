@@ -5,6 +5,9 @@
 !.gitattributes
 !README.md
 !init.bat
+!update.bat
+!icon.png
+!config_copy/
 !mmc-pack.json
 
 !minecraft/
